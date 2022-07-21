@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+  
+}
+
+
+
+
+.MenuCell{
+  color:#616161;
+  align-items: left;
+  text-transform: uppercase;
+  background-color: #BCAAA4;
+  font-size: large;
+  
+}
+
+.ActivitateFinalizata{
+  color:#81C784;
+}
+.ActivitateNefinalizata{
+  color:#FFD740;
+}
+.ActivitateNefinalizataTimpExpirat{
+ color: #FF7043;
+}
+
+.MenuRow{
+  margin: 0px;
+  align-items: left;
+  background-color: #E8EAF6;
+  font-size: 30px;
+  height: 50px;
+  width: 100%;
+}
+.IconButtonMenu{
+  color:#616161;
+}
+.CheckIcon{
+  color: green;
+}
+.HeaderButton .MuiButton-label{
+  
+  color:#616161;
+  background-color: #616161;
+  
+  
+  border-width: 0px;
+}
+
+.Widget{
+  color: #616161;
+}
+.HeaderCell{
+  
+  text-transform: uppercase;
+  
+}
+
+
+.AddIcon{
+  color:darkseagreen;
+  
+  
+}
+
+
+.FilterListIcon{
+  color:darkseagreen;
+ 
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

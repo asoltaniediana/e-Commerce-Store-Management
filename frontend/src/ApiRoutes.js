@@ -1,0 +1,13 @@
+export const link = "http://localhost:8000/api/";
+export const createRoute = link + "create";
+export const utilizatorRoute = link + "utilizator";
+export const tipUtilizatorRoute = link + "tipUtilizator";
+export const produsRoute = link + "produs";
+export const activitateRoute = link + "activitate";
+export const stareActivitateRoute = link + "stareActivitate";
+export const clientRoute = link + "client";
+export const schemaRoute = link + "schema";
+export const generatRoute = link + "generat";
+export const comandaRoute = link + "comanda";
+export const comandaProdusRoute = link + "comandaProdus";
+export const variabileSchemaRoute = link + "variabileSchema";
